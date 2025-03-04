@@ -6,7 +6,7 @@ import portfolio from '../assets/portfolio.png';
 const Project = () => {
   return (
     <div id="projects" className="w-full flex justify-center items-center text-white">
-      <div className="w-full md:max-w-4xl rounded-lg bg-gray-800 m-6">
+      <div className="w-full md:max-w-4xl rounded-lg bg-gray-800 m-2">
         <h1 className="text-3xl font-bold mb-5 px-2 ">Projects</h1>
         
         {[ 
