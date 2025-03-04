@@ -6,7 +6,7 @@ import { FaUserSecret } from "react-icons/fa"; // Alternative for CodeChef
 const CP = () => {
   return (
     <div className='text-white w-full flex justify-center items-center mt-5 mb-5 px-5'>
-      <div className="bg-gray-800 w-full md:max-w-4xl rounded-lg p-6 m-6 shadow-lg">
+      <div className="bg-gray-800 w-full md:max-w-4xl rounded-lg p-8 shadow-lg">
         <h1 className="text-2xl font-bold mb-4">CP Profile</h1>
         
         <div className="flex gap-6">
