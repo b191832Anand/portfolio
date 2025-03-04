@@ -12,7 +12,7 @@ const Project = () => {
         {[ 
           { title: 'Codex', img: codex, link: 'https://codex-mern.vercel.app', github: 'https://github.com/b191832Anand/codex', desc: 'Codex is a resource and resume management project that helps developers organize.' },
           { title: 'Developer Hub', img: developers, link: 'https://developers-hub-3.vercel.app', github: 'https://github.com/b191832Anand/developers_hub', desc: 'A platform for developers to connect, share projects, and collaborate.' },
-          { title: 'Portfolio', img: portfolio, link: 'https://your-live-link.com', github: 'https://github.com/your-repo', desc: 'My personal portfolio showcasing my skills, projects, and experience.' }
+          { title: 'Portfolio', img: portfolio, link: 'https://portfolio-seven-ruddy-31.vercel.app/', github: 'https://github.com/b191832Anand/portfolio', desc: 'My personal portfolio showcasing my skills, projects, and experience.' }
         ].map((project, index) => (
           <div key={index} className=" p-4 rounded-lg shadow-md bg-black mb-6">
             <h2 className="text-xl font-semibold mb-3">{project.title}</h2>
