@@ -7,7 +7,7 @@ const CP = () => {
   return (
     <div className='text-white w-full flex justify-center items-center mt-5 mb-5 px-5'>
       <div className="bg-gray-800 w-full md:max-w-4xl rounded-lg p-6 shadow-lg">
-        <h1 className="text-2xl font-bold text-gray-200 mb-4">CP Profile</h1>
+        <h1 className="text-2xl font-bold mb-4">CP Profile</h1>
         
         <div className="flex gap-6">
           <a href="https://leetcode.com/u/anand_2854/" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center">
